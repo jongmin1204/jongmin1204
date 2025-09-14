@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=JONGMIN's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![JONGMIN's GitHub Banner](https://i.ibb.co/zNmskYM/github-banner.png)
 
 끊임없는 학습을 통해 성장하는 한양대 ERICA 전자공학부 이종민입니다.  
 회로 설계부터 제어기 소프트웨어까지 경험하며, **ISO 26262, A-SPICE** 기반의 표준 프로세스를 이해하고  
@@ -36,10 +36,10 @@ Bachelor’s Degree in Electronic Engineering
 
 ### 🛠️ Tools
 #### IDE & Editor
-<img src="https://img.shields.io/badge/visual studio code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/visual studio code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/microchip studio-%23EE1F25.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/aurix studio-F37321.svg?style=for-the-badge&logoColor=white">
 
 #### Engineering & Simulation
-<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/CANoe-004E8A.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/aurix-F37321.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/ltspice-%23A60000.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/modelsim-00427E.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/logisim-00A300.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/quartus-0071C5.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/CANoe-004E8A.svg?style=for-the-badge&logoColor=white">
 
 #### Development & Management
 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/googletest-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
@@ -48,7 +48,6 @@ Bachelor’s Degree in Electronic Engineering
 <img src="https://img.shields.io/badge/autosar-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-D9534F.svg?style=for-the-badge&logoColor=white">
 
 ---
-
 ## 📂 Projects
 
 ### 🚗 임베디드 기반 자율주행 RC카 프로젝트 (Embedded SW School)
