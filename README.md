@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=JONGMIN's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-끊임없는 학습과 실험을 통해 성장하는 한양대 ERICA 전자공학부 이종민입니다.  
+끊임없는 학습을 통해 성장하는 한양대 ERICA 전자공학부 이종민입니다.  
 회로 설계부터 제어기 소프트웨어까지 경험하며, **ISO 26262, A-SPICE** 기반의 표준 프로세스를 이해하고  
 안전성과 신뢰성을 확보하는 임베디드 소프트웨어 개발을 목표로 하고 있습니다.  
 
