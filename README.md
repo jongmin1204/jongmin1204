@@ -5,7 +5,7 @@
 안전성과 신뢰성을 확보하는 임베디드 소프트웨어 개발을 목표로 하고 있습니다.  
 
 **Embedded Software Engineer | Developer**  
-Hanyang Univ. ERICA (2018.03 ~ 2025.02, 예정)  
+Hanyang Univ. ERICA (2018.03 ~ 2025.02, 졸업)  
 Bachelor’s Degree in Electronic Engineering  
 
 <a href="mailto:본인메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
