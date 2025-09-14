@@ -12,20 +12,8 @@ Bachelor’s Degree in Electronic Engineering
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=jongmin1204&theme=dracula" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jongmin1204&show_icons=true&theme=dracula" alt="jongmin1204's GitHub stats"/>
-    </td>
-  </tr>
-</table>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jongmin1204&theme=dracula&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![jongmin1204's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jongmin1204&custom_title=jongmin1204's%20Activity%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
