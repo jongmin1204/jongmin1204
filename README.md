@@ -8,8 +8,7 @@
 Hanyang Univ. ERICA (2018.03 ~ 2025.02, 졸업)  
 Bachelor’s Degree in Electronic Engineering  
 
-<a href="mailto:본인메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/본인ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<a href="mailto:jml2113@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 ---
 
