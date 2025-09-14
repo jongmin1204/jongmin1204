@@ -1,4 +1,4 @@
-![JONGMIN's GitHub Banner](https://i.ibb.co/zNmskYM/github-banner.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Welcome+to+JONGMIN's+GitHub;Embedded+Software+Engineer;ISO+26262+%7C+A-SPICE+%7C+AUTOSAR)](https://git.io/typing-svg)
 
 끊임없는 학습을 통해 성장하는 한양대 ERICA 전자공학부 이종민입니다.  
 회로 설계부터 제어기 소프트웨어까지 경험하며, **ISO 26262, A-SPICE** 기반의 표준 프로세스를 이해하고  
