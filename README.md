@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Welcome+to+JONGMIN's+GitHub;Embedded+Software+Engineer;ISO+26262+%7C+A-SPICE+%7C+AUTOSAR)](https://git.io/typing-svg)
 
 끊임없는 학습을 통해 성장하는 한양대 ERICA 전자공학부 이종민입니다.  
-회로 설계부터 제어기 소프트웨어까지 경험하며, **ISO 26262, A-SPICE** 기반의 표준 프로세스를 이해하고  
-안전성과 신뢰성을 확보하는 임베디드 소프트웨어 개발을 목표로 하고 있습니다.  
+회로 설계부터 제어기 소프트웨어까지 경험하며, 안전성과 신뢰성을 확보하는 임베디드 소프트웨어 개발을 목표로 하고 있습니다.  
 
 **Embedded Software Engineer | Developer**  
 Hanyang Univ. ERICA (2018.03 ~ 2025.02, 졸업)  
@@ -68,7 +67,7 @@ KSAE e-Formula 전기차 제작 동아리에서 안전 제어 회로를 설계·
 - **설계 내용:** BMS, SDC, BSPD, IMD 등 안전회로 개발 및 Fail-Safe 로직 구현  
 - **검증 과정:** 단선, 플로팅, 역전류 등 예외 상황을 실험하고 보완 설계 수행  
 - **성과:** 안전 규정 충족, 차량 완성 및 대회 참가 경험  
-- **Tech Stack:** OrCAD, PCB 설계, 하드웨어 회로 분석, ISO 26262 Fail-Safe 개념 적용  
+- **Tech Stack:** PCB 설계, 하드웨어 회로 분석, ISO 26262 Fail-Safe 개념 적용  
 
 
 #### 🛠️ 사용한 기술 (Tech Stack)
